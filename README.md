@@ -1,6 +1,6 @@
 # productos
 
-A new Flutter project.
+A simple products app.
 
 ## Getting Started
 
